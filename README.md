@@ -1,3 +1,3 @@
 # Google98
-Google98'in front end tasarımı.
+Googleun 1998 yalındaki arayüzünün tasarımı.
 
