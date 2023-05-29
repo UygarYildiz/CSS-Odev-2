@@ -1,3 +1,3 @@
 # Google98
-Googleun 1998 yalındaki arayüzünün tasarımı.
+Google'ın 1998 yalındaki arayüzünün tasarımı.
 
