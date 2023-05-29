@@ -1,2 +1,3 @@
-# CSS-Odev-2
-Kodluyoruz CSS-Odev-2
+# Google98
+Google98'in front end tasarımı.
+
